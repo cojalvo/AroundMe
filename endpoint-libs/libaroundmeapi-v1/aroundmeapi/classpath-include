@@ -1,4 +1,4 @@
-  <classpathentry kind="lib" path="libs/google-api-services-aroundmeapi-v1-rev20150319205527-1.18.0-rc.jar" sourcepath="libs-sources/google-api-services-aroundmeapi-v1-rev20150319205527-1.18.0-rc-sources.jar"/>
+  <classpathentry kind="lib" path="libs/google-api-services-aroundmeapi-v1-rev20150321204713-1.18.0-rc.jar" sourcepath="libs-sources/google-api-services-aroundmeapi-v1-rev20150321204713-1.18.0-rc-sources.jar"/>
   <classpathentry kind="lib" path="libs/google-api-client-1.18.0-rc.jar" sourcepath="libs-sources/google-api-client-1.18.0-rc-sources.jar"/>
   <classpathentry kind="lib" path="libs/google-api-client-android-1.18.0-rc.jar" sourcepath="libs-sources/google-api-client-android-1.18.0-rc-sources.jar"/>
   <classpathentry kind="lib" path="libs/google-api-client-appengine-1.18.0-rc.jar" sourcepath="libs-sources/google-api-client-appengine-1.18.0-rc-sources.jar"/>

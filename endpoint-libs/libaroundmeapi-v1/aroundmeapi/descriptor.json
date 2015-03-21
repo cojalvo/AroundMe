@@ -1,13 +1,13 @@
 {
   "files": [
     {
-      "downloadUrl": "/downloads/aroundmeapi/v1/20150319205527/java/1.18.0-rc/enhanced_cable_88320_appspot_com-aroundmeapi-v1-20150319205527-java-1.18.0-rc-sources.jar", 
-      "path": "enhanced_cable_88320_appspot_com-aroundmeapi-v1-20150319205527-java-1.18.0-rc-sources.jar", 
+      "downloadUrl": "/downloads/aroundmeapi/v1/20150321204713/java/1.18.0-rc/enhanced_cable_88320_appspot_com-aroundmeapi-v1-20150321204713-java-1.18.0-rc-sources.jar", 
+      "path": "enhanced_cable_88320_appspot_com-aroundmeapi-v1-20150321204713-java-1.18.0-rc-sources.jar", 
       "type": "source", 
-      "timestamp": "2015-03-19 20:55"
+      "timestamp": "2015-03-21 20:47"
     }, 
     {
-      "path": "enhanced_cable_88320_appspot_com-aroundmeapi-v1-20150319205527-java-1.18.0-rc.jar.properties", 
+      "path": "enhanced_cable_88320_appspot_com-aroundmeapi-v1-20150321204713-java-1.18.0-rc.jar.properties", 
       "type": "android.properties"
     }
   ], 
@@ -674,5 +674,5 @@
   "version": "v1", 
   "language_version": "1.18.0-rc", 
   "id": "aroundmeapi:v1", 
-  "revision": 20150319205527
+  "revision": 20150321204713
 }

@@ -1,13 +1,13 @@
 {
   "files": [
     {
-      "downloadUrl": "/downloads/deviceinfoendpoint/v1/20150319205521/java/1.18.0-rc/aroundme.com-deviceinfoendpoint-v1-20150319205521-java-1.18.0-rc-sources.jar", 
-      "path": "aroundme.com-deviceinfoendpoint-v1-20150319205521-java-1.18.0-rc-sources.jar", 
+      "downloadUrl": "/downloads/deviceinfoendpoint/v1/20150321204659/java/1.18.0-rc/aroundme.com-deviceinfoendpoint-v1-20150321204659-java-1.18.0-rc-sources.jar", 
+      "path": "aroundme.com-deviceinfoendpoint-v1-20150321204659-java-1.18.0-rc-sources.jar", 
       "type": "source", 
-      "timestamp": "2015-03-19 20:55"
+      "timestamp": "2015-03-21 20:46"
     }, 
     {
-      "path": "aroundme.com-deviceinfoendpoint-v1-20150319205521-java-1.18.0-rc.jar.properties", 
+      "path": "aroundme.com-deviceinfoendpoint-v1-20150321204659-java-1.18.0-rc.jar.properties", 
       "type": "android.properties"
     }
   ], 
@@ -674,5 +674,5 @@
   "version": "v1", 
   "language_version": "1.18.0-rc", 
   "id": "deviceinfoendpoint:v1", 
-  "revision": 20150319205521
+  "revision": 20150321204659
 }
